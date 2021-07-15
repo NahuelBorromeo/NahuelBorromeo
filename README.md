@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React Proyects
-- 📫 How to reach me https://www.instagram.com/nahueldeveloper/
+- 📫 How to reach me https://www.linkedin.com/in/nahuel-borromeo/
 
 <!---
 NahuelBorromeo/NahuelBorromeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
