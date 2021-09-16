@@ -9,3 +9,4 @@ NahuelBorromeo/NahuelBorromeo is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahuelBorromeo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelBorromeo)](https://github.com/nahuelborromeo/github-readme-stats)
