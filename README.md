@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @NahuelBorromeo
-- 👀 I’m interested in front-end.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React Proyects
+- 👀 I’m interested in Swift Projects.
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on Swift Proyects
 - 📫 How to reach me https://www.linkedin.com/in/nahuel-borromeo/
 
 <p align="left">
