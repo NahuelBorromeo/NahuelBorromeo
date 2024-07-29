@@ -32,19 +32,13 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nahuelborromeo&show_icons=true&theme=radical)
-
----
-
 ## 🌟 Proyectos Destacados
 
-### [Proyecto 1](https://github.com/NahuelBorromeo/bachatours)
-Website de una marca de eventos de bachata en USA.
+### [Medimatch APP]([https://github.com/NahuelBorromeo/bachatours](https://github.com/NahuelBorromeo/MedicalServiceApp))
+Aplicación de iOS para encontrar al personal de salud indicado para ti, de acuerdo a tu ubicación geográfica y especialidad requerida.
 
-### [Proyecto 2](https://github.com/NahuelBorromeo/portafoliov2)
-Website de mi portafolio personal.
+### [Bachatours]([https://github.com/NahuelBorromeo/portafoliov2](https://github.com/NahuelBorromeo/bachatours))
+Website de una marca de eventos de bachata en Estados Unidos, creada con Astro.
 
 ---
 
@@ -73,9 +67,10 @@ _"El único modo de hacer un gran trabajo es amar lo que haces." - Steve Jobs_
 ## 🎯 Objetivos de 2024
 
 - Contribuir a proyectos de código abierto.
-- Mejorar mis habilidades en Swift.
+- Crear aplicaciónes retadoras para iOS.
 - Colaborar con otros desarrolladores en proyectos interesantes.
 - Publicar artículos técnicos y tutoriales.
+- Leer 1 libro de crecimiento personal por mes.
 
 ---
 
